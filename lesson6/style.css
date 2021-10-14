@@ -1,0 +1,51 @@
+div {
+    display: block;
+}
+.header {
+    width: 600px;
+    height: 300px;
+}
+.top {
+    width: 600px;
+    height: 100px;
+}
+.red {
+    background-color: rgb(248, 2, 2);
+} 
+.green {
+    background-color: rgb(12, 245, 63);
+}
+.blue {
+    background-color: rgb(21, 167, 235);
+}
+.small {
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+.main {
+    margin-top: 100px;
+    width: 600px;
+    height: 300px;
+}
+.main_top {
+    width: 100%;
+    height: 100px;
+        }
+.grey {
+    background-color: rgb(84, 81, 87);
+
+}
+.yellow {
+    background-color: rgb(252, 235, 7);
+}
+.black {
+    background-color: rgb(10, 10, 10);
+}
+.blue {
+    background-color: rgb(14, 144, 250);
+}
+.middle {
+    width: 600px;
+    height: 100px;
+}
